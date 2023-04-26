@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sharem-app-frontend/static/css/main.764272cd.css",
+    "main.js": "/sharem-app-frontend/static/js/main.5aefd105.js",
+    "static/js/726.e8a7257e.chunk.js": "/sharem-app-frontend/static/js/726.e8a7257e.chunk.js",
+    "static/media/share.mp4": "/sharem-app-frontend/static/media/share.f758eefc9ea32c312130.mp4",
+    "index.html": "/sharem-app-frontend/index.html",
+    "main.764272cd.css.map": "/sharem-app-frontend/static/css/main.764272cd.css.map",
+    "main.5aefd105.js.map": "/sharem-app-frontend/static/js/main.5aefd105.js.map",
+    "726.e8a7257e.chunk.js.map": "/sharem-app-frontend/static/js/726.e8a7257e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.764272cd.css",
+    "static/js/main.5aefd105.js"
+  ]
+}
